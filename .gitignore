@@ -1,0 +1,12 @@
+# logs
+*.log
+error_log
+php_errors.log
+
+# environment-specific config / OS / editor files
+.env
+config.local.php
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
