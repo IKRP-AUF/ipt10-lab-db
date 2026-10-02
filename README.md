@@ -5,7 +5,6 @@ IPT10 Database Programming Laboratory: the same student-records CRUD app built t
 - `ipt10_lab/` - procedural/OO **mysqli** version
 - `ipt10_lab_pdo/` - **PDO** version
 - `database.sql` - schema + sample data (`ip10_lab.students`, UUID primary key)
-- `docs/` - TODO answers and report draft
 
 ## 1. Install XAMPP
 Download from https://www.apachefriends.org/download.html (PHP 8.2+).
